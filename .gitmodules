@@ -5,4 +5,4 @@
 [submodule "solomonR"]
 	path = solomonR
 	url = https://github.com/JUhalt/solomonR
-	branch = *release
+	branch = v0.2.0
