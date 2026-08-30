@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/juhalt/juhalt.r-universe.dev
 	branch = HEAD
+[submodule "solomonR"]
+	path = solomonR
+	url = https://github.com/JUhalt/solomonR
+	branch = *release
