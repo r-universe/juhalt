@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/juhalt/juhalt.r-universe.dev
 	branch = HEAD
+[submodule "contentvalidR"]
+	path = contentvalidR
+	url = https://github.com/JUhalt/contentvalidR
+	branch = *release
 [submodule "solomonR"]
 	path = solomonR
 	url = https://github.com/JUhalt/solomonR
