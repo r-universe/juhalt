@@ -6,6 +6,10 @@
 	path = contentvalidR
 	url = https://github.com/JUhalt/contentvalidR
 	branch = v0.1.0
+[submodule "nomologR"]
+	path = nomologR
+	url = https://github.com/JUhalt/nomologR
+	branch = master
 [submodule "solomonR"]
 	path = solomonR
 	url = https://github.com/JUhalt/solomonR
