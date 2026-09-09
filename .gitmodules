@@ -9,7 +9,7 @@
 [submodule "nomologR"]
 	path = nomologR
 	url = https://github.com/JUhalt/nomologR
-	branch = master
+	branch = v0.1.0
 [submodule "solomonR"]
 	path = solomonR
 	url = https://github.com/JUhalt/solomonR
