@@ -6,5 +6,9 @@
   {
     "package": "contentvalidR",
     "releasetag": true
+  },
+  {
+    "package": "nomologR",
+    "releasetag": true
   }
 ]
