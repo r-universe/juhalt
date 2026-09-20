@@ -5,11 +5,11 @@
 [submodule "contentvalidR"]
 	path = contentvalidR
 	url = https://github.com/JUhalt/contentvalidR
-	branch = v0.4.0
+	branch = v0.5.0
 [submodule "nomologR"]
 	path = nomologR
 	url = https://github.com/JUhalt/nomologR
-	branch = v0.1.0
+	branch = v0.2.0
 [submodule "solomonR"]
 	path = solomonR
 	url = https://github.com/JUhalt/solomonR
